@@ -1,0 +1,62 @@
+Practice Session project
+Create a 3 question trivia quiz website
+___________________________________________
+-The home page asks the first question
+-The user selects from 4 multiple choice answers
+-The correct answer is hyperlinked to a correct answer page for the question
+ On the correct answer page, the user can click to the next question
+-The incorrect answers are hyperlinked to an incorrect answer page for the question
+ On the incorrect answer page, the user is asked to try again
+__________________________________________________________
+Quiz questions and answers to use are in: 
+quiz-questions.txt 
+___________________________________________
+Instructions
+For a 3 question quiz, you'll need 9 total HTML files
+Create the pages as you go. For guidance, refer to screenshots of the finished project in the slide deck.
+
+1. Create a new HTML file, 
+    -use lower case file names, join words with dashes -
+    -make the names sensible, for exmaple: question-1.html, or q-1.html
+    for the answer pages: q-1-incorrect.html, etc.
+    -make sure you make them inside the practice-session folder!
+
+2. Use the Emmet abbreviation to add the default HTML structure tags
+
+3. In the head section, edit the title, and link to the stylesheet
+
+4. In the body section, create a <main> tag
+
+5. Inside <main>, add and code the page content as listed below:
+
+___________________________________________
+Question page content
+
+History Quiz (most important heading)
+Quiz question (heading of your choice)
+possible answer (hyperlink to correct page)
+possible answer (hyperlink to incorrect page)
+possible answer (hyperlink to incorrect page)
+possible answer (hyperlink to incorrect page)
+
+__________________________________________________________
+Incorrect answer page content
+
+History Quiz (most important heading)
+Incorrect! (heading of your choice)
+incorrect-icon.png
+Try again (hyperlink back to question page)
+
+__________________________________________________________
+Correct answer page content
+
+History Quiz (most important heading)
+-answer- is correct! (heading of your choice)
+correct-icon.png
+Next question (hyperlinked to next question)
+
+On the final correct answer page: 
+Take more quizzes 
+    hyperlinks to:
+    https://www.britannica.com/quiz/browse/World-History
+

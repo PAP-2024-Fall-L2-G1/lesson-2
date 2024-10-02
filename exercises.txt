@@ -1,0 +1,29 @@
+Exersize 1 - HTML default structure tags & nesting
+1. Create a new file called index.html
+2. In index.html, add the default HTML structure tags
+3. Don't forget the title tags! Where did the title show up?
+
+Exercise 2  - Practice text and image tags
+1. In index.html, in the body section, add a tag named main
+2. Inside <main>, add the page content. 
+   The text and images to use are in site-content.txt 
+3. In the head section, add a link to the stylesheet
+
+Exercise 3 - HTML auto add default structure tags
+1. Create 2 new files, mythical.html and real.html
+2. Use the Emmet abbreviation to add the default HTML structure tags
+3. In the head section, link to the stylesheet
+4. In the body section, add a tag named main
+5. In between the <main> tags, add the content on each page
+
+Exercise 4 - Use anchor tags to create a site menu
+1. In index.html, use anchor tags to create a site menu that links to home, mythical, and real.
+2. Add the link menu to the 2 other pages
+
+Exercise 5 - External links
+1. In index.html, in the first paragraph, make the word "chimera" into ahyperlink to:
+https://www.merriam-webster.com/dictionary/chimera
+2. In mythical.html, in the first paragraph, make the words "Greek Chimera" into a hyperlink to:
+https://mythologysource.com/chimera-greek-monster/
+3. In real.html, in the first paragraph, make the words "some humans" into a hyperlink to:
+https://www.scientificamerican.com/article/3-human-chimeras-that-already-exist/

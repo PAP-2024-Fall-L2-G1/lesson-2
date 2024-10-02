@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Geologica&display=swap');
+
+html{
+    color-scheme: dark;
+}
+
+body {
+    margin: 0;
+    min-height: 100%;
+    font-family: 'Geologica', sans-serif;
+    font-size: 1.15rem;
+    line-height: 1.5;
+    text-align: center;
+    color: white;
+    background: #ddddd1 url(history-study-bg.jpg) no-repeat top center;
+    background-size: cover;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+    margin: 0;
+    padding: 20px 5px;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+h3 {
+    font-size: 2rem;
+}
+
+p {
+    text-align: left;
+}
+
+a {
+    display: block;
+    margin: 20px auto;
+    padding: 15px;
+    width:300px;
+   color: #662416;
+   text-decoration: none;
+   font-size: 1.2rem;
+    border-radius: 20px;
+    background-color: white;
+}
+
+a:hover {
+    background-color: #d4f6ec;
+}
+
+
+main {
+    margin: 0 auto;
+    width: min(70ch, 100% - 4rem);
+    padding: 30px 50px;
+    background-color: #0f2234;
+    background-color: rgba(15,34,52,0.8);
+}
+
+img, video {
+    max-width: 30%;
+   
+}
